@@ -296,7 +296,7 @@ FAA107 Total Words
 68,923
 
 
-Airspace & Rules of Flight
+## Airspace & Rules of Flight
 Slide 3: VOLS
 Slide 12: 1.2 Redo Audio - numbers incorrect
 Slide 15: Redo Audio - numbers incorrect
@@ -316,7 +316,7 @@ Audio needs to be redone because of slide changes.
 
 
 
-Weather Phenom Notes:
+## Weather Phenom Notes:
 Slide 6: Update Animation timings
 Slide 7: Timings, transition
 Slide 8: Duplicate?
@@ -341,7 +341,7 @@ Slide 47: The numbers are wrong.
 Slide 48: Missing Audio
 Slide 51: Transition timing
 
-Weather Surface Area Notes:
+## Weather Surface Area Notes:
 Slide 12: add to glossary
 Slide 15: Fix numbering system
 Slide 23-25: repeated text.
@@ -351,6 +351,6 @@ Slide 28: Incorrect number
 
 
 
-Weather Summary Notes:
+## Weather Summary Notes:
 Slide 2. Missing Voiceover
 Slide 3. Match voiceover timing
