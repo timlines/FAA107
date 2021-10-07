@@ -49,16 +49,15 @@ Stage Three: Record Voice - Recording the voice over.
 Stage Four: Final Edits - Combing the voice and animation as well as any other edits
 Stage Five: Final Review - Final Review of the Slide
 Stage Five:  Published  - The PowerPoint is complete! 
-Project OutlineFAA PART 107 CURRICULUM
-Heavier than Air
-Unit
-Presentation
-Guide
-Words
-Voice Actor
-Status
-1.0
-00 Heavier Than Air: Intro
+# Project Outline
+
+# FAA PART 107 CURRICULUM
+
+# Heavier than Air
+
+| Unit | Presentation              | Guide| Wordcount | Voice Actor | Status |
+|------|---------------------------|------|-----------|-------------|--------|
+|1.0   | 00 Heavier Than Air: Intro|      |601        | Rusty       | Edit Slides |
 
 
 601
