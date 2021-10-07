@@ -38,75 +38,41 @@ Glossary: Link to Glossary
 
 Style Guide: Link to Style Guide
 
-
-
-
-# Project Status
-
-Stage One: Edit slides - Editing the Slides
-Stage Two: Edit Script - Writing and reviewing the script
-Stage Three: Record Voice - Recording the voice over.
-Stage Four: Final Edits - Combing the voice and animation as well as any other edits
-Stage Five: Final Review - Final Review of the Slide
-Stage Five:  Published  - The PowerPoint is complete! 
 # Project Outline
 
-# FAA PART 107 CURRICULUM
+Below is a list of all the units and their current status.
+
+|Stage One:   | Edit slides  | Editing the Slides |
+|Stage Two:   | Edit Script  | Writing and reviewing the script |
+|Stage Three: | Record Voice | Recording the voice over. |
+|Stage Four:  | Final Edits  | Combing the voice and animation as well as any other edits |
+|Stage Five:  | Final Review | Final Review of the Slide |
+|Stage Five:  | Published    | The PowerPoint is complete! | 
+
 
 # Heavier than Air
 
-| Unit | Presentation              | Guide| Wordcount | Voice Actor | Status |
-|------|---------------------------|------|-----------|-------------|--------|
-|1.0   | 00 Heavier Than Air: Intro|      |601        | Rusty       | Edit Slides |
-
-
-601
-Rusty
-Edit slides
-1.1
-01 Heavier Than Air: Fixed Wing
-G1.1
-992
-Rusty
-Edit slides
-1.2
-02 Heavier Than Air: Airfoil
-G1.2
-1351
-Rusty
-Edit slides
-1.3
-03 Heavier Than Air: Forces
-G1.3
-1536
-Rusty
-Edit slides
-1.4
-04 Heavier Than Air: Maneuver
-G1.4
-3700
-Rusty
-Edit slides
-1.5
-05 Heavier Than Air: Limitations
-G1.5
-1517
-Rusty
-Edit slides
-1.6
-06 Heavier Than Air: Summary
-G1.6
-2190
-Rusty
-Edit slides
-
+| Unit | Presentation              | Guide| Wordcount | Voice Actor | Status      |
+|------|---------------------------|------|-----------|-------------|-------------|
+|1.0   | 00 HTA: Intro             |      |           | Rusty       | Edit Slides |
+|1.1   | 00 HTA: Fixed Wing        |G1.1  |           | Rusty       | Edit Slides |
+|1.2   | 00 HTA: Airfoil           |G1.X  |           | Rusty       | Edit Slides |
+|1.3   | 00 HTA: Forces            |G1.X  |           | Rusty       | Edit Slides |
+|1.4   | 00 HTA: Manuever          |G1.X  |           | Rusty       | Edit Slides |
+|1.5   | 00 HTA: Limitiations      |G1.X  |           | Rusty       | Edit Slides |
+|1.6   | 00 HTA: Summary           |G1.X  |           | Rusty       | Edit Slides |
 
 Link to Google Drive Folder: HeavierThanAir
 
+## Notes
 Heavier than Air was moved from Unit Two to now being unit one.
 
-Slides have been edited and now Tim just needs to update the link/powerpoint file.
-Airspace
+
+
+# Airspace
+
+| Unit | Presentation              | Guide| Wordcount | Voice Actor | Status      |
+|------|---------------------------|------|-----------|-------------|-------------|
 Unit
 Presentation
 Script
