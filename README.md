@@ -42,6 +42,8 @@ Style Guide: Link to Style Guide
 
 Below is a list of all the units and their current status.
 
+| Stage | Stage Name         | Description        | 
+|-------------|--------------|--------------------|
 |Stage One:   | Edit slides  | Editing the Slides |
 |Stage Two:   | Edit Script  | Writing and reviewing the script |
 |Stage Three: | Record Voice | Recording the voice over. |
