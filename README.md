@@ -41,223 +41,68 @@ Below is a list of all the units and their current status.
 
 | Stage | Stage Name         | Description        | 
 |-------------|--------------|--------------------|
-|Stage One:   | <span style="color:FireBrick">Edit slides</span>  | Editing the Slides |
-|Stage Two:   | <span style="color:Khaki">Edit Script</span>  | Writing and reviewing the script |
-|Stage Three: | <span style="color:MeidumSeaGreen">Record Voice</span> | Recording the voice over. |
-|Stage Four:  | <span style="color:Blue">Final Edits</span>  | Combining the voice and animation as well as any other edits |
-|Stage Five:  | <span style="color:DarkOrchid">Final Review</span> | Final Review of the Slide |
-|Stage Five:  | <span style="color:DimGray">Published</span>    | The PowerPoint is complete! | 
+|Stage One:   | Edit slides  | Editing the Slides |
+|Stage Two:   | Edit Script  | Writing and reviewing the script |
+|Stage Three: | Record Voice | Recording the voice over. |
+|Stage Four:  | Final Edits  | Combining the voice and animation as well as any other edits |
+|Stage Five:  | Final Review | Final Review of the Slide |
+|Stage Five:  | Published    | The PowerPoint is complete! | 
 
 # Heavier than Air
 
-| Unit | Presentation              | Guide| Wordcount | Voice Actor | Status      |
-|------|---------------------------|------|-----------|-------------|-------------|
-|1.0   | 00 HTA: Intro             |      |           | Rusty       | Edit Slides |
-|1.1   | 00 HTA: Fixed Wing        |G1.1  |           | Rusty       | Edit Slides |
-|1.2   | 00 HTA: Airfoil           |G1.X  |           | Rusty       | Edit Slides |
-|1.3   | 00 HTA: Forces            |G1.X  |           | Rusty       | Edit Slides |
-|1.4   | 00 HTA: Manuever          |G1.X  |           | Rusty       | Edit Slides |
-|1.5   | 00 HTA: Limitiations      |G1.X  |           | Rusty       | Edit Slides |
-|1.6   | 00 HTA: Summary           |G1.X  |           | Rusty       | Edit Slides |
+| Unit | Presentation           | Wordcount | Voice Actor | Status      |
+|------|------------------------|-----------|-------------|-------------|
+|1.0   | HTA: Intro             |           | Rusty       | Edit Slides |
+|1.1   | HTA: Fixed Wing        |           | Rusty       | Edit Slides |
+|1.2   | HTA: Airfoil           |           | Rusty       | Edit Slides |
+|1.3   | HTA: Forces            |           | Rusty       | Edit Slides |
+|1.4   | HTA: Manuever          |           | Rusty       | Edit Slides |
+|1.5   | HTA: Limitiations      |           | Rusty       | Edit Slides |
+|1.6   | HTA: Summary           |           | Rusty       | Edit Slides |
 
 Link to Google Drive Folder: HeavierThanAir
 
-## Notes
-Heavier than Air was moved from Unit Two to now being unit one.
+# Airspace and Rules of Flight
 
-
-
-# Airspace
-
-| Unit | Presentation              | Guide| Wordcount | Voice Actor | Status      |
-|------|---------------------------|------|-----------|-------------|-------------|
-Unit
-Presentation
-Script
-Words
-Voice Actor
-Status
-2.0
-00 Airspace & Rules of Flight: Intro
-S 1.1
-742
-Rusty
-Edit slides
-2.1
-01 Airspace & Rules of Flight: Class
-S 1.2
-117
-Rusty
-Edit slides
-2.2
-02 Airspace & Rules of Flight: maps
-S 1.3
-6145
-Rusty
-Edit slides
-2.3
-03 Airspace & Rules of Flight: Airports 
-S 1.4
-5805
-Rusty
-Edit slides
-2.4
-04 Airspace & Rules of Flight: RoF
-S 1.5
-3642
-Rusty
-Edit slides
-2.5
-05 Airspace & Rules of Flight: Summary
-S 1.6
-4897
-Rusty
-Edit slides
-
+| Unit | Presentation              | Wordcount | Voice Actor | Status      |
+|------|---------------------------|-----------|-------------|-------------|
+| 2.0  | AROF: Intro               |           | Rusty       | Edit Slides |
+| 2.1  | AROF: Class               |           | Rusty       | Edit Slides |
+| 2.2  | AROF: Maps                |           | Rusty       | Edit Slides |
+| 2.3  | AROF: Airports            |           | Rusty       | Edit Slides | 
+| 2.4  | AROF: Rules of Flight     |           | Rusty       | Edit Slides | 
+| 2.5  | AROF: Summary             |           | Rusty       | Edit Slides |
 
 Link to Google Drive Folder: Airspace & Rules of Flight
 
-	
+# Weather
 
-Weather
-Unit
-Video
-PP
-Guide
-Words
-Voice
-Status
-3.0
-Intro
-Intro  
-
-
-432
-Kat
-Edit slides
-3.1
-Physics
-WeatherPhysics
-G3.1
-
-
-Kat
-Edit slides
-3.2
-Phenom
-WeatherPhenom
-G3.2
-
-
-Kat
-Edit slides
-3.3
-SurfaceEffects
-WeatherSurfaceEffects
-G3.3
-
-
-Kat
-Edit slides
-3.4
-FlightHazards
-Weather Flight Hazards
-G3.4
-
-
-Kat
-Edit slides
-3.5
-Sources
-WeatherSources
-
-
-
-
-Kat
-Edit slides
-3.6
-Summary
-Summary
-
-
-
-
-Kat
-Edit slides
-
+| Unit | Presentation              | Wordcount | Voice Actor | Status      |
+|------|---------------------------|-----------|-------------|-------------|
+| 3.0  | W: Intro                  |           | Kat         | Edit Slides |
+| 3.1  | W: Physics                |           | Kat         | Edit Slides |
+| 3.2  | W: Phenom                 |           | Kat         | Edit Slides |
+| 3.3  | W: Surface Effects        |           | Kat         | Edit Slides |
+| 3.4  | W: Flight Hazards         |           | Kat         | Edit Slides |
+| 3.5  | W: Sources                |           | Kat         | Edit Slides |
+| 3.6  | W: Summary                |           | Kat         | Edit Slides |
 
 Link to Google Drive Folder: Weather
 
 
-Crew
-Unit
-Presentation
-Words
-Voice Actor
-Status
-4.1
-Intro
-TBD
-Kat
-Edit slides
-4.2
-Crew
-8566
-Kat
-Edit slides
-4.3
-CrewPhysio
-8455
-Kat
-Edit slides
-4.4
-Summary
-TBD
-Kat
-Edit slides
+# Crew
 
+| Unit | Presentation              | Wordcount | Voice Actor | Status      |
+|------|---------------------------|-----------|-------------|-------------|
+| 4.0  | C: Intro                  |           | Kat         | Edit Slides |
+| 4.1  | C: Crew                   |           | Kat         | Edit Slides |
+| 4.2  | C: Physiology             |           | Kat         | Edit Slides |
+| 4.3  | C: Summary                |           | Kat         | Edit Slides |
 
 Link to Google Drive Folder: Crew
-Overview
 
-
-Presentation
-WordS
-
-
-
-
-
-
-Overview of Curriculum
-TBD
-
-
-
-
-
-
-
-
-Summary
-
-
-Presentation
-WordS
-
-
-
-
-Summary of Curriculum
-TBD
-
-
-
-
-FAA107 Total Words
+## FAA107 Total Words
 68,923
-
 
 ## Airspace & Rules of Flight
 Slide 3: VOLS
@@ -273,11 +118,6 @@ Slide 60 onward slides are changed.
 Audio needs to be redone because of slide changes.
 -Unit 1 was changed to Unit 2
 -Multiple edits near slide 60 and onward.
-
-
-
-
-
 
 ## Weather Phenom Notes:
 Slide 6: Update Animation timings
@@ -309,10 +149,6 @@ Slide 12: add to glossary
 Slide 15: Fix numbering system
 Slide 23-25: repeated text.
 Slide 28: Incorrect number
-
-
-
-
 
 ## Weather Summary Notes:
 Slide 2. Missing Voiceover
