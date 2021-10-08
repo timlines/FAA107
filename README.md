@@ -41,13 +41,12 @@ Below is a list of all the units and their current status.
 
 | Stage | Stage Name         | Description        | 
 |-------------|--------------|--------------------|
-|Stage One:   | Edit slides  | Editing the Slides |
-|Stage Two:   | Edit Script  | Writing and reviewing the script |
-|Stage Three: | Record Voice | Recording the voice over. |
-|Stage Four:  | Final Edits  | Combing the voice and animation as well as any other edits |
-|Stage Five:  | Final Review | Final Review of the Slide |
-|Stage Five:  | Published    | The PowerPoint is complete! | 
-
+|Stage One:   | <span style="color:FireBrick">Edit slides</span>  | Editing the Slides</span> |
+|Stage Two:   | <span style="color:Khaki">Edit Script</span>  | Writing and reviewing the script |
+|Stage Three: | <span style="color:MeidumSeaGreen">Record Voice</span> | Recording the voice over. |
+|Stage Four:  | <span style="color:SteelBlue">Final Edits</span>  | Combing the voice and animation as well as any other edits |
+|Stage Five:  | <span style="color:DarkOrchid">Final Review</span> | Final Review of the Slide |
+|Stage Five:  | <span style="color:DimGray">Published</span>    | The PowerPoint is complete! | 
 
 # Heavier than Air
 
