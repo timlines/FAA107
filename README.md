@@ -105,3 +105,7 @@ Below is a list of all the units and their current status.
 |Stage Four:  | Final Edits  | Combining the voice and animation as well as any other edits |
 |Stage Five:  | Final Review | Final Review of the Slide |
 |Stage Five:  | Published    | The PowerPoint is complete! | 
+
+# Audio File Directory
+
+[Rusty Audio Files on Google Drive](https://drive.google.com/drive/folders/11k25vSbixSowA3v2ptWS7q1WoDoul_F2?usp=sharing)
