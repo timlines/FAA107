@@ -1,0 +1,6 @@
+# 1.3 Heavier Than Air - Forces
+
+Slide 4: "Since the Wings  
+Slide 5- 11: Adjust timing  
+Slide 17: "Stabile" should be "stable", should be prounced as "stable"  
+Slide 21: "Porpoising" pronounced as /ˈpôrpəs - ing/ [video guide](https://www.youtube.com/watch?v=GTu3HU55xJU)
