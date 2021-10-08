@@ -1,17 +1,15 @@
-# MINDS-i FAA PART 107
-## VOICE OVER PROJECT
+# MINDS-i FAA PART 107 - VOICE OVER PROJECT
 
-This is part of MINDS-i Education’s new curriculum for teaching high school students to prepare for the FAA Part 107 drone certification. 
+MINDS-i Education is developing a new curriculum for teaching high school students to prepare for the FAA Part 107 drone certification. 
 
-We’ve selected two voices for the new drone curriculum! 
-
-Rusty will cover the first two sections, Airspace and Heavier than Air. Kat will cover Weather and Crew. 
+We have two talented voice actors for the project, Rusty will cover the first two sections, Airspace and Heavier than Air. Kat will cover Weather and Crew. 
 
 A separate audio file will be recorded for each slide.
 
  
 Tim Lines / Customer Support Specialist
 timl@mymindsi.com / 5092525767
+
 MINDS-i
 Office: 5092525767 / Fax: 5099242219
 22819 E Appleway Ave
