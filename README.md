@@ -7,13 +7,10 @@ We have two talented voice actors for the project, Rusty will cover the first tw
 A separate audio file will be recorded for each slide.
 
  
-Tim Lines / Customer Support Specialist /  
-timl@mymindsi.com 
+Tim Lines / Customer Support Specialist / timl@mymindsi.com 
   
-MINDS-i
-Office: 5092525767 / Fax: 5099242219 /  
-22819 E Appleway Ave /  
-MINDSiEDUCATION.COM
+MINDS-i  
+Office: 5092525767 / Fax: 5099242219 / 22819 E Appleway Ave / MINDSiEDUCATION.COM
 
 # Project Details
 
