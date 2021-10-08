@@ -6,9 +6,9 @@ TODO: Re-record the slide.
 "Stabile" should be "stable", should be prounced as "stable"  
 Stable is spelled incorrectly twice.
 
-"An aircraft that is stable tends to regain its equilibrium orientation when disturbed from it.
+"A stable aircraft tends to regain its equilibrium orientation when disturbed from it."
 
-For a stable aircraft osculation's away from equilibrium tend to be damped."
+"For a stable aircraft, osculations away from equilibrium tend to be damped."
 
 ## Slide 21:
 
