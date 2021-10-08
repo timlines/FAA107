@@ -48,7 +48,7 @@ Below is a list of all the units and their current status.
 |Stage Five:  | Final Review | Final Review of the Slide |
 |Stage Five:  | Published    | The PowerPoint is complete! | 
 
-# Heavier than Air
+# 1.0 Heavier than Air
 
 | Unit | Presentation           | Wordcount | Voice Actor | Status      |
 |------|------------------------|-----------|-------------|-------------|
@@ -62,7 +62,7 @@ Below is a list of all the units and their current status.
 
 Link to Google Drive Folder: HeavierThanAir
 
-# Airspace and Rules of Flight
+# 2.0 Airspace and Rules of Flight
 
 | Unit | Presentation              | Wordcount | Voice Actor | Status      |
 |------|---------------------------|-----------|-------------|-------------|
@@ -75,7 +75,7 @@ Link to Google Drive Folder: HeavierThanAir
 
 Link to Google Drive Folder: Airspace & Rules of Flight
 
-# Weather
+# 3.0 Weather
 
 | Unit | Presentation              | Wordcount | Voice Actor | Status      |
 |------|---------------------------|-----------|-------------|-------------|
@@ -90,7 +90,7 @@ Link to Google Drive Folder: Airspace & Rules of Flight
 Link to Google Drive Folder: Weather
 
 
-# Crew
+# 4.0 Crew
 
 | Unit | Presentation              | Wordcount | Voice Actor | Status      |
 |------|---------------------------|-----------|-------------|-------------|
