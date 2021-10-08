@@ -9,6 +9,8 @@ A separate audio file will be recorded for each slide.
  
 Tim Lines / Customer Support Specialist / timl@mymindsi.com 
   
+![MINDS-i Education Logo](/assets/images/MINDS-iEducationbadge.png "MINDS-i Logo")
+
 MINDS-i  
 Office: 5092525767 / Fax: 5099242219 / 22819 E Appleway Ave / [mindsieducation.com](https://mindsieducation.com/)
 
