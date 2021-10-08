@@ -27,13 +27,13 @@ Final Audio Deadline: TBD
 
 Audio Specifications: Cut to length for each slide.
 
-Reference Material: Amatrol’s E-Learning Curriculum
+Reference Material: [Amatrol’s E-Learning Curriculum](https://www.youtube.com/watch?v=JAy8WrmSGXY)
 
-Communication Channel: Discord Invite
+Communication Channel: [Discord](https://discord.com/login?redirect_to=%2Fchannels%2F862827843179905034%2F862827843641933837)
 
-Glossary: Link to Glossary
+Glossary: [Link to Glossary](glossary.md "Glossary")
 
-Style Guide: Link to Style Guide
+Style Guide: [Link to Style Guide](styleguide.md "Style Guide")
 
 # Project Outline
 
