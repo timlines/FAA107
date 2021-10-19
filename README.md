@@ -18,15 +18,15 @@ Office: 5092525767 / Fax: 5099242219 / 22819 E Appleway Ave / [mindsieducation.c
 
 ## 1.0 Heavier than Air
 
-| Unit | Presentation           | Wordcount | Voice Actor | Status      |
-|------|------------------------|-----------|-------------|-------------|
-|1.0   | HTA: Intro             |           | Rusty       | Edit Slides |
-|1.1   | HTA: Fixed Wing        |           | Rusty       | Final Edit  |
-|1.2   | HTA: Airfoil           |           | Rusty       | Edit Slides |
-|1.3   | HTA: Forces            |           | Rusty       | Final Edit  |
-|1.4   | HTA: Manuever          |           | Rusty       | Final Edit  |
-|1.5   | HTA: Limitiations      |           | Rusty       | Edit Slides |
-|1.6   | HTA: Summary           |           | Rusty       | Edit Slides |
+| Unit | Presentation           | Wordcount | Voice Actor | Status       | File                                                            |
+|------|------------------------|-----------|-------------|--------------|-----------------------------------------------------------------|
+|1.0   | HTA: Intro             |           | Rusty       | Record Voice | [1-0_HTA_Intro](https://spaces.hightail.com/receive/XwPsjP0Qae) |
+|1.1   | HTA: Fixed Wing        |           | Rusty       | Final Edit   |
+|1.2   | HTA: Airfoil           |           | Rusty       | Edit Slides  |
+|1.3   | HTA: Forces            |           | Rusty       | Final Edit   |
+|1.4   | HTA: Manuever          |           | Rusty       | Final Edit   |
+|1.5   | HTA: Limitiations      |           | Rusty       | Edit Slides  |
+|1.6   | HTA: Summary           |           | Rusty       | Edit Slides  |
 
 Link to Google Drive Folder: HeavierThanAir
 
