@@ -6,15 +6,16 @@ TODO: @Tim Add in transition timings.
 
 ## Slide 3
 
-Record annimations on slide 3
+@Rusty Re-record audio for slide 3.
+
+@Tim add in slide timings / annimations on slide 3
 
 ## Slide 5
 
-Question: "The Wing and the propellar as airfoils" do we need this exact phrase to be read out or is it okay to simply have the audio say "The wing as airfoils"?
-
 Typo - Changed "Convers" to "covers".
 
-TODO - Re-record audio for slide.
+TODO - @Rusty Re-record audio for slide 5.
+TODO - @Rusty Re-record subtitle "The Wing and the Propellar as airfoils"
 
 ## Slide 6
 
