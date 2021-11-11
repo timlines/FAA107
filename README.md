@@ -18,23 +18,21 @@ Office: 5092525767 / Fax: 5099242219 / 22819 E Appleway Ave / [mindsieducation.c
 
 ## 1.0 Heavier than Air
 
-| Unit | Presentation           | Wordcount | Voice Actor | Status       | File                                                            |
-|------|------------------------|-----------|-------------|--------------|-----------------------------------------------------------------|
-|1.0   | HTA: Intro             |           | Rusty       | Record Voice | [1-0_HTA_Intro](https://spaces.hightail.com/receive/XwPsjP0Qae) |
-|1.1   | HTA: Fixed Wing        |           | Rusty       | Final Edit   |
-|1.2   | HTA: Airfoil           |           | Rusty       | Edit Slides  | [1-2_HTA_Airfoil](https://spaces.hightail.com/receive/lkaDIpL94J) |
-|1.3   | HTA: Forces            |           | Rusty       | Final Edit   |
-|1.4   | HTA: Manuever          |           | Rusty       | Final Edit   |
-|1.5   | HTA: Limitiations      |           | Rusty       | Edit Slides  | [1-5_HTA_Limitations](https://spaces.hightail.com/receive/DjenL3fdqz) |
-|1.6   | HTA: Summary           |           | Rusty       | Edit Slides  | [1-6_HTA_Summary](https://spaces.hightail.com/receive/FTRHz9p7nP) |
-
-Link to Google Drive Folder: HeavierThanAir
+| Unit | Presentation           | Wordcount | Voice Actor | Status       | File                                                                  | Last Update  |
+|------|------------------------|-----------|-------------|--------------|-----------------------------------------------------------------------|--------------|
+|1.0   | HTA: Intro             |           | Rusty       | Record Voice | [1-0_HTA_Intro](https://spaces.hightail.com/receive/XwPsjP0Qae)       | 2021-10-08   |
+|1.1   | HTA: Fixed Wing        |           | Rusty       | Record Voice | [1-1_HTA_FixedWing](https://spaces.hightail.com/receive/v54PhFGUWq)   | 2021-08-24   |
+|1.2   | HTA: Airfoil           |           | Rusty       | Record Voice | [1-2_HTA_Airfoil](https://spaces.hightail.com/receive/lkaDIpL94J)     | 2021-10-08   |
+|1.3   | HTA: Forces            |           | Rusty       | Record Voice | [1-3_HTA_Forces](https://spaces.hightail.com/receive/KHuL5EqgSu)      | 2021-08-24   |
+|1.4   | HTA: Manuever          |           | Rusty       | Record Voice | [1-4_HTA_Manuver](https://spaces.hightail.com/receive/jGTksYqxp8)     | 2021-08-25   |
+|1.5   | HTA: Limitiations      |           | Rusty       | Record Voice | [1-5_HTA_Limitations](https://spaces.hightail.com/receive/DjenL3fdqz) | 2021-10-08   |
+|1.6   | HTA: Summary           |           | Rusty       | Record Voice | [1-6_HTA_Summary](https://spaces.hightail.com/receive/FTRHz9p7nP) |   | 2021-10-08   |
 
 ## 2.0 Airspace and Rules of Flight
 
-| Unit | Presentation              | Wordcount | Voice Actor | Status      |
-|------|---------------------------|-----------|-------------|-------------|
-| 2.0  | AROF: Intro               |           | Rusty       | Edit Slides |
+| Unit | Presentation              | Wordcount | Voice Actor | Status      | Last Update  |
+|------|---------------------------|-----------|-------------|-------------|--------------|
+| 2.0  | AROF: Intro               |           | Rusty       | Edit Slides |    |
 | 2.1  | AROF: Class               |           | Rusty       | Edit Slides |
 | 2.2  | AROF: Maps                |           | Rusty       | Edit Slides |
 | 2.3  | AROF: Airports            |           | Rusty       | Edit Slides | 
