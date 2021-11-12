@@ -40,12 +40,11 @@ Office: 5092525767 / Fax: 5099242219 / 22819 E Appleway Ave / [mindsieducation.c
 | 2.5  | AROF: Summary             |           | Rusty       | Edit Slides |
 
 Link to Google Drive Folder: Airspace & Rules of Flight
-
 ## 3.0 Weather
 
 | Unit | Presentation              | Wordcount | Voice Actor | Status      | File                                                   | Last Update |
 |------|---------------------------|-----------|-------------|-------------|--------------------------------------------------------|-------------|
-| 3.0  | W: Intro                  |           | Kat         | Edit Slides | [3-0_W_Intro](https://spaces.hightail.com/receive/eu32JmAtZQ)
+| 3.0  | W: Intro                  |           | Kat         | Edit Slides | [3-0_W_Intro](https://spaces.hightail.com/receive/FUSSk8oFat)
 | 3.1  | W: Physics                |           | Kat         | Edit Slides | [3-1_W_Physics](https://spaces.hightail.com/receive/eu32JmAtZQ)
 | 3.2  | W: Phenom                 |           | Kat         | Edit Slides | [3-2_W_Phenom](https://spaces.hightail.com/receive/eu32JmAtZQ)
 | 3.3  | W: Surface Effects        |           | Kat         | Edit Slides | [3-3_W_Surface-Effects](https://spaces.hightail.com/receive/eu32JmAtZQ)
