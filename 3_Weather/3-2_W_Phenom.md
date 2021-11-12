@@ -1,5 +1,7 @@
 ## Weather Phenom Notes:
 
+TODO: @Tim update notes
+
 Slide 6: Update Animation timings
 Slide 7: Timings, transition
 Slide 8: Duplicate?

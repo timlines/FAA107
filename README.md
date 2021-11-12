@@ -49,7 +49,7 @@ Link to Google Drive Folder: Airspace & Rules of Flight
 | 3.2  | W: Phenom                 |           | Kat         | Edit Slides | [3-2_W_Phenom](https://spaces.hightail.com/receive/SnesnnyDFb)
 | 3.3  | W: Surface Effects        |           | Kat         | Edit Slides | [3-3_W_Surface-Effects](https://spaces.hightail.com/receive/J00fXrNcFz)
 | 3.4  | W: Flight Hazards         |           | Kat         | Edit Slides | [3-4_W_Flight-Hazards](https://spaces.hightail.com/receive/GQOJOJ07JP)
-| 3.5  | W: Sources                |           | Kat         | Edit Slides | 
+| 3.5  | W: Sources                |           |             | Edit Slides | 
 | 3.6  | W: Summary                |           | Kat         | Edit Slides | [3-6_W_Summary](https://spaces.hightail.com/receive/Lr7GPvlyrs)
 
 [All weather PowerPoints](https://spaces.hightail.com/receive/eu32JmAtZQ)
