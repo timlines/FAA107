@@ -43,17 +43,17 @@ Link to Google Drive Folder: Airspace & Rules of Flight
 
 ## 3.0 Weather
 
-| Unit | Presentation              | Wordcount | Voice Actor | Status      |
-|------|---------------------------|-----------|-------------|-------------|
-| 3.0  | W: Intro                  |           | Kat         | Edit Slides |
-| 3.1  | W: Physics                |           | Kat         | Edit Slides |
-| 3.2  | W: Phenom                 |           | Kat         | Edit Slides |
-| 3.3  | W: Surface Effects        |           | Kat         | Edit Slides |
-| 3.4  | W: Flight Hazards         |           | Kat         | Edit Slides |
-| 3.5  | W: Sources                |           | Kat         | Edit Slides |
-| 3.6  | W: Summary                |           | Kat         | Edit Slides |
+| Unit | Presentation              | Wordcount | Voice Actor | Status      | File                                                   | Last Update |
+|------|---------------------------|-----------|-------------|-------------|--------------------------------------------------------|-------------|
+| 3.0  | W: Intro                  |           | Kat         | Edit Slides | [3-0_W_Intro]()
+| 3.1  | W: Physics                |           | Kat         | Edit Slides | [3-1_W_Physics]()
+| 3.2  | W: Phenom                 |           | Kat         | Edit Slides | [3-2_W_Phenom]()
+| 3.3  | W: Surface Effects        |           | Kat         | Edit Slides | [3-3_W_Surface-Effects]()
+| 3.4  | W: Flight Hazards         |           | Kat         | Edit Slides | [3-4_W_Flight-Hazards]()
+| 3.5  | W: Sources                |           | Kat         | Edit Slides | 
+| 3.6  | W: Summary                |           | Kat         | Edit Slides | [3-6_W_Summary]()
 
-Link to Google Drive Folder: Weather
+[All weather PowerPoints](https://spaces.hightail.com/receive/eu32JmAtZQ)
 
 
 ## 4.0 Crew
