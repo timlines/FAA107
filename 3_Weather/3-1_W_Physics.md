@@ -153,7 +153,7 @@ The Earth is surrounded by an atmosphere of 78 percent Nitrogen (N2), 21 percent
 
 ## Slide 19 ##
 
-TODO: @Kat re-record to match the new script.
+Sounds great!
 
 **Script:**
 ```
@@ -162,7 +162,7 @@ The atmosphere is divided into regions based on height. The figure at right show
 
 ## Slide 20 ##
 
-TODO: @Kat re-record to match the new script.
+Very nice.
 
 **Script:**
 ```
@@ -173,7 +173,7 @@ Typical pressure readings at sea level are from 950.0 to 1040.0 mb.
 
 ## Slide 21 ##
 
-TODO: @Kat re-record to match the new script.
+Good.
 
 **Script:**
 ```
@@ -182,40 +182,35 @@ Since air is a compressible gas, the air at low altitudes is much more dense tha
 
 ## Slide 22 ##
 
-TODO: @Kat re-record to match the new script.
+Good!
 
 **Script:**
 ```
 Air density is measured in aviation by “Density altitude”. This term is inspired by the gradient in air density with respect to altitude.
+
 When atmospheric conditions, such as high pressure systems, cause the air to be denser the “density altitude” is said to be lower.
+
 When atmospheric conditions, such as low pressure systems, cause the air to be less dense, the “density altitude” is said to be higher. 
 ```
 
 ## Slide 23 ##
 
-TODO: @Kat re-record to match the new script.
+Very nice
+
+TODO @Tim Edit Animaitions to match timings.
 
 **Script:**
 ```
 Not only is there a pressure gradient from low to high altitudes, there is also a temperature gradient. 
+
 The Earth tends to absorb solar energy which it passes to the air near its surface.
-The heated air tends to rise, as it rises it decreases in pressure, increases in volume and cools.
-```
 
-## Slide 24 ##
-
-TODO: @Kat re-record to match the new script.
-
-**Script:**
-```
-Not only is their a pressure gradient from low to high altitudes, there is also a temperature gradient. 
-The Earth tends to absorb solar energy which it passes to the air near its surface.
 The heated air tends to rise, as it rises it decreases in pressure, increases in volume and cools.
 ```
 
 ## Slide 25 ##
 
-TODO: @Kat re-record to match the new script.
+Sounds good!
 
 **Script:**
 ```
@@ -223,7 +218,7 @@ Once the air cools, it descends again, increasing in pressure and temperature wh
 ```
 ## Slide 26 ##
 
-TODO: @Kat re-record to match the new script.
+I like it!
 
 **Script:**
 ```
@@ -232,17 +227,16 @@ Due to the tendency of warm air to expand and cool as it rises, the troposphere 
 
 ## Slide 27 ##
 
-TODO: @Kat re-record to match the new script.
+Good!
 
 **Script:**
 ```
 Over the course of the year the earth experiences variations in temperature. These temperature variations are caused by the tilt of the Earth’s rotational axis. The solar radiation in the northern and southern hemispheres varies significantly with the seasons.
+
 In the north, the atmosphere is colder during the winter and warmer during the summer. In the southern hemisphere the seasons run opposite.
 ```
 
 ## Slide 28 ##
-
-TODO: @Kat re-record to match the new script.
 
 **Script:**
 ```
@@ -252,7 +246,7 @@ Global Winds, Global Currents & Continental Weather
 
 ## Slide 29 ##
 
-TODO: @Kat re-record to match the new script.
+Good
 
 **Script:**
 ```
@@ -270,7 +264,7 @@ Planetary-scale Atmospheric Cells & the Jetstreams
 
 ## Slide 31 ##
 
-TODO: @Kat re-record to match the new script.
+Sounds good.
 
 **Script:**
 ```
@@ -279,7 +273,6 @@ On a planetary scale the equator tends to be heated more than the poles. This le
 
 ## Slide 32 ##
 
-TODO: @Kat re-record to match the new script.
 
 **Script:**
 ```
@@ -290,7 +283,7 @@ These cells extend through the height of the lower region of the atmosphere, the
 
 ## Slide 33 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -303,7 +296,7 @@ The low altitude part of the cell cycles south for the upper cell and north for 
 
 ## Slide 34 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -312,7 +305,7 @@ As the air in the Hadley cell flows, relative to the Earth’s surface, it picks
 
 ## Slide 35 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -321,7 +314,7 @@ The Polar cell is similar to the Hadley cell with essentially the same flow dire
 
 ## Slide 36 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -332,7 +325,7 @@ The flow direction of the Ferrel cell is the reverse of the flow direction in th
 
 ## Slide 37 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -342,7 +335,7 @@ At the surface, the air flow of the Ferrel cell has a west to east trend.
 
 ## Slide 38 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -353,7 +346,7 @@ The Ferrel cell is of particular importance in creating weather patterns over th
 
 ## Slide 39 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -401,18 +394,20 @@ The video, compiled by NASA, shows the variations in the polar jet stream. Red i
 
 ## Slide 44 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
 These jetstreams move and change shape, breaking and rejoining and varying in intensity. 
+
 The video, compiled by NASA, shows the variations in the polar jet stream. Red indicates the presence of the fastest high altitude winds.
+
 The Jetstream plays a significant role in moving weather patterns across the North American continent.
 ```
 
 ## Slide 45 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -421,7 +416,7 @@ Planetary Ocean Currents
 
 ## Slide 46 ##
 
-TODO: @Kat re-record to match the new script.
+
 
 **Script:**
 ```
@@ -431,29 +426,17 @@ Global ocean currents are shown in the figure at left. Warm surface currents are
 ```
 
 ## Slide 47 ##
-
-TODO: @Kat re-record to match the new script.
-
-**Script:**
 ```
 The surface currents that transfer water around the American coast are shown in the figure at left. Warm water is indicated by orange and cold by blue.
 These currents play an important role in atmospheric temperature. As weather systems come off the ocean, the air temperature is strongly affected by the ocean temperature. 
 ```
 
 ## Slide 48 ##
-
-TODO: @Kat re-record to match the new script.
-
-**Script:**
 ```
 Large-scale Weather Trends Over North America
 ```
 
 ## Slide 49 ##
-
-TODO: @Kat re-record to match the new script.
-
-**Script:**
 ```
 Most of the US is under the northern Ferrel cell and the prevailing surface winds are from west to east.
 Therefore, the weather along the west coast largely comes off the ocean.
@@ -461,18 +444,15 @@ Therefore, the weather along the west coast largely comes off the ocean.
 
 ## Slide 50 ##
 
-TODO: @Kat re-record to match the new script.
-
-**Script:**
 ```
 The weather in the Midwest and north-eastern coast is strongly influenced by the central and north-central regions of the continent respectively. 
 ```
 
 ## Slide 51 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
+
 ```
 The southeast coast of the US is far enough to the south that it is affected by the junction between the Ferrel and the Hadley cell. At this latitude winds tend to blow to the west, sometimes swinging to the north.
 Weather and storms come into the southeastern seaboard off the tropical ocean.
@@ -480,9 +460,9 @@ Weather and storms come into the southeastern seaboard off the tropical ocean.
 
 ## Slide 52 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
+
 ```
 Southern and eastern Alaska are still predominately influenced by the Ferrel cell.
 Weather comes off the ocean from the southwest.
@@ -490,9 +470,9 @@ Weather comes off the ocean from the southwest.
 
 ## Slide 53 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
+
 ```
 North-central Alaska is far enough north that it comes under the influence of the Polar cell.
 For this section of Alaska systems come in from the northeast.
@@ -500,27 +480,26 @@ For this section of Alaska systems come in from the northeast.
 
 ## Slide 54  ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
 ```
 Weather that comes off the ocean tends to generate higher levels of precipitation due to the higher water vapor content. It also tends to be more constant in temperature throughout the year since oceans due to their circulation tend to resist the temperature variation more than landmasses.
 ```
 
 ## Slide 55 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
+
 ```
 Weather coming off land masses tends to be drier and with greater extremes in temperature, than that which comes off the ocean.
 ```
 
 ## Slide 56 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
+
 ```
 Overall the weather of the continental US is determined by the prevailing winds.
 the western coast of the continental US tends to be warmer than the north-eastern coast due to the influence of eastward winds and a relatively warm ocean.
@@ -530,7 +509,6 @@ The south-eastern coast tends to be warm and damp due to warm northwestern wind 
 
 ## Slide 57 ##
 
-TODO: @Kat re-record to match the new script.
 
 **Script:**
 ```
@@ -557,9 +535,8 @@ Dew point is the temperature at which the water vapor condenses out of the air, 
 
 ## Slide 59 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
 ```
 The Earth’s atmosphere is composed of nitrogen, oxygen and argon with a variable but significant component of water vapor. 
 Energy from the sun warms the atmosphere and creates currents.  This energy changes in distribution from the winter to the summer due to the tilt of the Earth’s rotational axes, thus creating the seasons.
@@ -569,9 +546,7 @@ Within the Troposphere the atmosphere tends to decrease in pressure, density, an
 
 ## Slide 60 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
 ```
 The pressure of the atmosphere increases as the surface is approached. Typical pressure readings at sea level are from 950.0 to 1040 millibar (mb).
 
@@ -581,9 +556,8 @@ The quantity “Density Altitude” describes air density in terms of altitude. 
 
 ## Slide 61 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
+
 ```
 Within the troposphere (below 33,000 ft) temperature decreases with altitude. 
 
@@ -592,9 +566,7 @@ When the sun warms the surface of the earth, energy is also transferred to air n
 
 ## Slide 62 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
 ```
 The sun creates currents in the atmosphere which lead to the circulation in three atmospheric cells and the jetstreams.
 There are three circulation cells in each hemisphere: the Hadley cell, the Ferrel cell, and the Polar cell. In the upper hemisphere, the Hadley and Polar cells flow south at low altitude; while the Ferrel cell rotates opposite, and flows north at low altitude. 
@@ -604,9 +576,7 @@ The Jetstreams are bands of extremely strong wind that tend to occur near the bo
 
 ## Slide 63 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
 ```
 The heat from the sun not only drives global currents of air, it also creates currents in the Earth’s oceans. 
 Global ocean currents sometimes referred to at the “Global Conveyor Belt” facilitate the exchange of heat between the equator and polar regions. 
@@ -615,9 +585,7 @@ Global ocean current play a significant role in weather patterns across the plan
 
 ## Slide 64 ##
 
-TODO: @Kat re-record to match the new script.
 
-**Script:**
 ```
 Global flows, dominate the large-scale weather trends across the continental United States.
 Most of the Unites States is under the Ferrel cell which means that the prevailing winds are from southwest or west to northeast or east.
