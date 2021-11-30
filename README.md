@@ -20,7 +20,7 @@ Office: 5092525767 / Fax: 5099242219 / 22819 E Appleway Ave / [mindsieducation.c
 
 | Unit | Presentation           | Wordcount | Voice Actor | Status       | File                                                                  | Last Update  |
 |------|------------------------|-----------|-------------|--------------|-----------------------------------------------------------------------|--------------|
-|1.0   | HTA: Intro             |           | Rusty       | Record Voice | [1-0_HTA_Intro](https://spaces.hightail.com/receive/XwPsjP0Qae)       | 2021-10-08   |
+|1.0   | HTA: Intro             |           | Rusty       | Final Review | [1-0_HTA_Intro](https://spaces.hightail.com/receive/gF78quEP1h)       | 2021-11-30   |
 |1.1   | HTA: Fixed Wing        |           | Rusty       | Record Voice | [1-1_HTA_FixedWing](https://spaces.hightail.com/receive/v54PhFGUWq)   | 2021-08-24   |
 |1.2   | HTA: Airfoil           |           | Rusty       | Record Voice | [1-2_HTA_Airfoil](https://spaces.hightail.com/receive/lkaDIpL94J)     | 2021-10-08   |
 |1.3   | HTA: Forces            |           | Rusty       | Record Voice | [1-3_HTA_Forces](https://spaces.hightail.com/receive/KHuL5EqgSu)      | 2021-08-24   |
