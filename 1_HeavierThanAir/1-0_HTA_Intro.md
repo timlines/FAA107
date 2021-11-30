@@ -1,10 +1,8 @@
 # 1.3 Heavier Than Air - Intro
 
-TODO: @Rusty Re-record audio for the below slides changing the typo "convers" to "covers".
+DONE!
 
 ## Slide 3
-
-@Rusty Re-record audio for slide 3. Note: "2. The Wing & the Propeller as Airfoils"
 
 ```
 The FAA exam focus on heavier than air flight and specifically on fixed wing aircraft. Fixed wing aircraft are airplanes with wings that do not move.
@@ -22,9 +20,6 @@ Section 5. Limitations due to Weight & Load
 ```
 
 ## Slide 5
-
-TODO - @Rusty Re-record audio for slide 5.  
-TODO - @Rusty Re-record subtitle "The Wing and the Propellar as airfoils"
 
 ```
 The Wing and the Propeller as Airfoils
@@ -48,8 +43,6 @@ Typo - Changed "Convers" to "covers".
 
 ## Slide 6
 
-TODO - @Rusty Re-record audio for slide.
-
 ```
 Forces, Stability & Balance
 
@@ -71,7 +64,6 @@ Typo - Changed "Convers" to "covers".
 
 ## Slide 7
 
-TODO - @Rusty Re-record audio for slide.
 ```
 Maneuverability & Load
 
@@ -95,8 +87,6 @@ Section 4, “Maneuverability & Load”, covers:
 Typo - Changed "Convers" to "covers".
 
 ## Slide 8
-
-TODO - @Rusty Re-record audio for slide.
 
 ```
 Limitations due to Weight & Load
