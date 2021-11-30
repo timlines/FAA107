@@ -13,5 +13,5 @@ and a accerlation apparent equals the force of the load divided by the mass of t
 
 and the load factor is the force of the load divided by the mass of the aircraft times g, the gravitational acceleration.
 
-Which could also be restated as the force of the laod divided by the aircraft's weight equals the load factor.
+Which could also be restated as the force of the load divided by the aircraft's weight equals the load factor.
 ```
