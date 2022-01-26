@@ -2,17 +2,12 @@
 
 ## Slide 1
 
-TODO: @Rusty Re-record the slide to match the new text.
-
 **Script:**
 ```
 Heavier Than Air Flight. The wing and propellar as airfoils.
 ```
 
-
 ## Slide 2
-
-TODO: @Rusty Re-record the slide to match the new text.
 
 **Script:**
 ```
